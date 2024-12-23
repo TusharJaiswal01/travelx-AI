@@ -108,7 +108,7 @@ function AIChatBot() {
     if (message) {
       setChats((prevChats) => [...prevChats, { sender: "user", message }]);
       inputRef.current.value = ""; // Clear input
-      setIsBotResponding(true); // Indicate the bot is responding
+      setIsBotResponding(true); 
     }
   };
 
