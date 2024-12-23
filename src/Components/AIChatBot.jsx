@@ -158,7 +158,7 @@ function AIChatBot() {
                 Sahyog
               </h2>
               <p className="text-sm text-[#6b7280] dark:text-gray-400 leading-3">
-                Your FineTuned Travel Manager
+                Your Fine Tuned Travel Manager
               </p>
             </div>
             <button
