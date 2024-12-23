@@ -21,7 +21,7 @@ export default function Homepage() {
       <Aboutus />
       <Features />
       <AIChatBot />
-      {/* <LiveEmotion /> */}
+      {/* <LiveEmotions /> */}
       <ContactUs />
       <Footer />
     </div>

@@ -49,6 +49,7 @@ export default function Features() {
         description: 'Real-time updates and proactive alerts minimize risks during disasters.',
         altText: 'Personalized Travel Dashboard'
       },
+      
       {
         imgSrc: 'https://cdn-icons-png.flaticon.com/128/9655/9655551.png',
         title: 'Driver Safety',
