@@ -43,7 +43,7 @@ export const AuroraHero = () => {
         </h1>
         <p className="my-6 max-w-xl text-center text-base leading-relaxed md:text-lg md:leading-relaxed">
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae, et,
-          distinctio eum impedit
+          
         </p>
         <motion.button
           style={{
