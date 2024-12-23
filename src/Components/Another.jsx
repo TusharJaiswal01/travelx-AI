@@ -92,7 +92,7 @@ const ImmersiveBackground = ({
       <img
         src={imgLink}
         className=" h-[100%]  absolute inset-0  w-full rounded-3xl object-fill z-0"
-        style={{ height: "", width: "" }} // Ensure proper scaling for images
+        style={{ height: "", width: "" }} 
       />
     </div>
   );
